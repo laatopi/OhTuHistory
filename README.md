@@ -1,1 +1,1 @@
-# [OhTuHistory](https://github.com/Jakousa/OhTuHistory/wiki)
+# [OhTuHistory](https://github.com/ohtu-ohjaajat/OhTuHistory/wiki)
