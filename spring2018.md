@@ -22,5 +22,7 @@
 ### Tuotantosovellukset
 - Ruokavälitys
 - labtool
+  - [staging](https://svm-61.cs.helsinki.fi/labtool/) toimii vain laitoksen verkossa
+  - [tuotanto](https://studies.cs.helsinki.fi/labtool/) 
 - Partio
 - [Hunt for glory](http://huntforglory.herokuapp.com/)
