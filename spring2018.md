@@ -9,6 +9,9 @@
 - Partio 
   - [partio backend](https://github.com/partio-scout/tosu-backend)
   - [partio frontend](https://github.com/partio-scout/tosu-frontend)
+- Ruokavälitys
+  - [backend](https://github.com/ohtu2018-rv/rv-backend)
+  - [frontend](https://github.com/ohtu2018-rv/rv-app-frontend)
 
 ### Backlogit
 - [Labtool](https://docs.google.com/spreadsheets/d/1wfYeFRiMauQRatbCnSYI_PLEFFzRq0rX9pKsR6tte3g/edit#gid=1798859574)
