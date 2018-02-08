@@ -4,10 +4,14 @@
 ### Ryhmien repot
 - [Labtool](https://github.com/labtool/labtool)
 - [Ruokavälitys](https://github.com/ohtu2018-rv/)
+- Partio
+- Hunt for glory
 
 ### Backlogit
-- Labtool
+- [Labtool](https://docs.google.com/spreadsheets/d/1wfYeFRiMauQRatbCnSYI_PLEFFzRq0rX9pKsR6tte3g/edit#gid=1798859574)
 - [Ruokavälitys](https://docs.google.com/spreadsheets/d/1a6bmQr5vvjFKoaNGr8-ilExtwjr2A6OBHpKnpp8d45Y/edit?usp=sharing)
+- Partio
+- Hunt for glory
 
 ### Tuotantosovellukset
 - Ruokavälitys
@@ -15,5 +19,6 @@
 - Hunt for glory
   - [backend](https://github.com/OhtuHunt/HuntForGlory)
   - [frontend](https://github.com/OhtuHunt/HuntForGloryFrontend)
-- [partio backend](https://github.com/partio-scout/tosu-backend), [partio frontend](https://github.com/partio-scout/tosu-frontend)
-
+- Partio 
+  - [partio backend](https://github.com/partio-scout/tosu-backend)
+  - [partio frontend](https://github.com/partio-scout/tosu-frontend)
