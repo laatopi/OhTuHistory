@@ -3,9 +3,12 @@
 
 ### Ryhmien repot
 - [Labtool](https://github.com/labtool/labtool)
-- [Ruokavälitys](https://github.com/ohtu2018-rv/)
-- Partio
 - Hunt for glory
+  - [backend](https://github.com/OhtuHunt/HuntForGlory)
+  - [frontend](https://github.com/OhtuHunt/HuntForGloryFrontend)
+- Partio 
+  - [partio backend](https://github.com/partio-scout/tosu-backend)
+  - [partio frontend](https://github.com/partio-scout/tosu-frontend)
 
 ### Backlogit
 - [Labtool](https://docs.google.com/spreadsheets/d/1wfYeFRiMauQRatbCnSYI_PLEFFzRq0rX9pKsR6tte3g/edit#gid=1798859574)
@@ -15,10 +18,6 @@
 
 ### Tuotantosovellukset
 - Ruokavälitys
-- [labtool](https://github.com/labtool/labtool)
+- labtool
+- Partio
 - Hunt for glory
-  - [backend](https://github.com/OhtuHunt/HuntForGlory)
-  - [frontend](https://github.com/OhtuHunt/HuntForGloryFrontend)
-- Partio 
-  - [partio backend](https://github.com/partio-scout/tosu-backend)
-  - [partio frontend](https://github.com/partio-scout/tosu-frontend)
