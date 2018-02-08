@@ -1,1 +1,3 @@
 - [labtool](https://github.com/labtool/labtool)
+- [Hunt for glory - backend](https://github.com/OhtuHunt/HuntForGlory)
+- [Hunt for glory - frontend](https://github.com/OhtuHunt/HuntForGloryFrontend)
