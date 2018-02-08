@@ -1,3 +1,4 @@
+
 ## Kevään 2018 ohjelmistotuotantoprojektit
 
 ### Ryhmien repot
@@ -9,5 +10,7 @@
 - [Ruokavälitys](https://docs.google.com/spreadsheets/d/1a6bmQr5vvjFKoaNGr8-ilExtwjr2A6OBHpKnpp8d45Y/edit?usp=sharing)
 
 ### Tuotantosovellukset
-- Labtool
 - Ruokavälitys
+- [labtool](https://github.com/labtool/labtool)
+- [partio backend](https://github.com/partio-scout/tosu-backend), [partio frontend](https://github.com/partio-scout/tosu-frontend)
+
