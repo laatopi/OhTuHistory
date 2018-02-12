@@ -26,6 +26,11 @@ Loistava taskijako sprintissä 1:
 
 ## dokumentaatio
 
+### REST-apin kuvaus
+
+Muuten esimerkillinen mutta formaatiksi sopisi paremmin githubin markdown:
+- https://docs.google.com/document/d/1NivINt2Pj7I66VPD99HeDnT9LGFb32-2YCBa1Jmjv8w/edit
+
 ### Käyttöönotto
 
 - https://github.com/kehitysto/coaching-chatbot/blob/master/doc/deploy-instructions.md
