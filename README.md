@@ -2,9 +2,7 @@
 
 ## parhaat käytänteet
 
-ota mallia näistä
-
-https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/reference.md
+ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/reference.md)
 
 ## ryhmät
 
