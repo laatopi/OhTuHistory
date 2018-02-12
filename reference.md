@@ -33,5 +33,7 @@ Melko perusteellinen, jopa hieman raskaahko dokumentti
 
 ### testaus
 
-Tiivis mutta parempi kuin ei mitään
-- https://github.com/SSGL-SEP/speech_explorer/blob/master/documentation/testing.md
+Tiivis mutta aikalailla riittävä
+- https://github.com/kehitysto/coaching-chatbot/blob/master/doc/testing-instructions.md
+
+Olisi toki hyvä luonnehtia myös jos jokin osa ohjelmistosta jää automaattisen testauksen ulkopuolelle
