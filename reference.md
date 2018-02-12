@@ -20,7 +20,7 @@ Loistava taskijako sprintissä 1:
 
 ## README.md
 
-### oikeaopiinonen development-ohje 
+### oikeaoppinen development-ohje 
 
 - https://github.com/ohtu2018-rv/rv-backend
 
