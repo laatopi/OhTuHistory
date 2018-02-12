@@ -29,6 +29,8 @@ ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/
 
 ### Tuotantosovellukset
 - Ruokavälitys
+  - [staging](https://rv-frontend-dev.herokuapp.com/)
+  - [tuotanto](https://rv-frontend.herokuapp.com/)
 - labtool
   - [staging](https://svm-61.cs.helsinki.fi/labtool/) toimii vain laitoksen verkossa
   - [tuotanto](https://studies.cs.helsinki.fi/labtool/) 
