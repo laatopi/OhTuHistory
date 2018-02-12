@@ -26,10 +26,17 @@ Loistava taskijako sprintissä 1:
 
 ## dokumentaatio
 
+### Käyttöönotto
+
+- https://github.com/kehitysto/coaching-chatbot/blob/master/doc/deploy-instructions.md
+
 ### arkkitehtuuri
 
 Melko perusteellinen, jopa hieman raskaahko dokumentti
 - https://docs.google.com/document/d/1MkSI6UdJo2KNHohv3ef9ym2W6n7OzVb3rv0yaz3nDZQ/edit
+
+Tiivis mutta informatiivinen
+- https://github.com/kehitysto/coaching-chatbot/blob/master/doc/architecture.md
 
 ### testaus
 
