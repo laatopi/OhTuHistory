@@ -1,6 +1,10 @@
 
 ## Kevään 2018 ohjelmistotuotantoprojektit
 
+### parhaat käytänteet
+
+ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/reference.md)
+
 ### Ryhmien repot
 - [Labtool](https://github.com/labtool/labtool)
 - Hunt for glory
