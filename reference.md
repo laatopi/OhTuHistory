@@ -30,3 +30,8 @@ Loistava taskijako sprintissä 1:
 
 Melko perusteellinen, jopa hieman raskaahko dokumentti
 - https://docs.google.com/document/d/1MkSI6UdJo2KNHohv3ef9ym2W6n7OzVb3rv0yaz3nDZQ/edit
+
+### testaus
+
+Tiivis mutta parempi kuin ei mitään
+- https://github.com/SSGL-SEP/speech_explorer/blob/master/documentation/testing.md
