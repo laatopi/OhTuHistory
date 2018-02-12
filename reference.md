@@ -23,7 +23,7 @@ Loistava taskijako sprintissä 1:
 Ehkä overall paras tähänastinen 
 - https://github.com/OhtuKisalli/project-info
 
-### oikeaopiinonen development-ohje 
+### oikeaoppinen development-ohje 
 
 - https://github.com/ohtu2018-rv/rv-backend
 
