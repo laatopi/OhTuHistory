@@ -23,3 +23,10 @@ Loistava taskijako sprintissä 1:
 ## työaikakirjanpito
 
 - https://docs.google.com/spreadsheets/d/17PduZQHrmnuX6p_RP01JO7bq5TDrcI7-3gSi1h1wwI4/edit?ts=5a5c6da6#gid=1685552279
+
+## dokumentaatio
+
+### arkkitehtuuri
+
+Melko perusteellinen, jopa hieman raskaahko dokumentti
+- https://docs.google.com/document/d/1MkSI6UdJo2KNHohv3ef9ym2W6n7OzVb3rv0yaz3nDZQ/edit
