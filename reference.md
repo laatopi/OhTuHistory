@@ -1,5 +1,9 @@
 # linkkejä hyviin käytänteisiin
 
+## development workflown kuvaaminen
+
+- https://github.com/OhtuKisalli/project-info/blob/master/workflow.md
+
 ## backlog
 
 ### product backlog
