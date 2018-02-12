@@ -18,6 +18,7 @@ ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/
   - [frontend](https://github.com/ohtu2018-rv/rv-app-frontend)
 - [Neural networks](https://github.com/Ohtu-project/Ohtu-neural-networks)
 - [3Dmaps](https://github.com/3Dmaps/3Dmaps)
+- [Vieraslajit.fi](https://github.com/Vieraslajit/Vieraslajit)
 
 ### Backlogit
 - [Labtool](https://docs.google.com/spreadsheets/d/1wfYeFRiMauQRatbCnSYI_PLEFFzRq0rX9pKsR6tte3g/edit#gid=1798859574)
@@ -26,6 +27,7 @@ ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/
 - [Hunt for glory](https://docs.google.com/spreadsheets/d/17PduZQHrmnuX6p_RP01JO7bq5TDrcI7-3gSi1h1wwI4/edit?ts=5a5c6da6#gid=0)
 - [Neural Networks](https://docs.google.com/spreadsheets/d/1pWFfQ25zzc4l9Z6x5c-glNwFVsxB1zB1c1MTcro23Ak/edit?usp=sharing)
 - [3Dmaps](https://docs.google.com/spreadsheets/d/15aIlJD48ZQKQ7nGFM40B4Lvwt3_bHjMlxDbJSRVtRH8/edit)
+- [Vieraslajit](https://docs.google.com/spreadsheets/d/1J_Fyd4nz4NiaO80L46lcEIjyo2mbTOU2jSYKFGTQdM4/edit#gid=0)
 
 ### Tuotantosovellukset
 - Ruokavälitys
