@@ -20,7 +20,10 @@ Loistava taskijako sprintissä 1:
 
 ## README.md
 
-### oikeaoppinen development-ohje 
+Ehkä overall paras tähänastinen 
+- https://github.com/OhtuKisalli/project-info
+
+### oikeaopiinonen development-ohje 
 
 - https://github.com/ohtu2018-rv/rv-backend
 
@@ -29,6 +32,11 @@ Loistava taskijako sprintissä 1:
 - https://docs.google.com/spreadsheets/d/17PduZQHrmnuX6p_RP01JO7bq5TDrcI7-3gSi1h1wwI4/edit?ts=5a5c6da6#gid=1685552279
 
 ## dokumentaatio
+
+### Definition of Done
+
+Riittävän perusteellinen sen suhteen että asioista on mahdollista todeta ovatko ne "done"
+- https://docs.google.com/document/d/1eTyUjT8rQvBWOGFAobeOJKGN3qU0LiBdK6p5i7BTWTQ/edit
 
 ### REST-apin kuvaus
 
