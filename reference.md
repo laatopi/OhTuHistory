@@ -1,4 +1,4 @@
-# linkkejä parhaisiin backlog/github/dokumentaatiokäytänteisiin
+# linkkejä käytänteisiin
 
 ## README.md
 
