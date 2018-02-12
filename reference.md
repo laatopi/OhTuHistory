@@ -8,7 +8,7 @@
 
 ### product backlog
 
-- https://docs.google.com/spreadsheets/d/1a6bmQr5vvjFKoaNGr8-ilExtwjr2A6OBHpKnpp8d45Y/edit#gid=166436744
+- https://docs.google.com/spreadsheets/d/1a6bmQr5vvjFKoaNGr8-ilExtwjr2A6OBHpKnpp8d45Y/edit#gid=0
 
 ### sprint backlog
 
