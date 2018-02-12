@@ -43,9 +43,9 @@ Riittävän perusteellinen sen suhteen että asioista on mahdollista todeta ovat
 Muuten esimerkillinen mutta formaatiksi sopisi paremmin githubin markdown:
 - https://docs.google.com/document/d/1NivINt2Pj7I66VPD99HeDnT9LGFb32-2YCBa1Jmjv8w/edit
 
-### Käyttöönotto
+### usecasejen kuvaus
 
-- https://github.com/kehitysto/coaching-chatbot/blob/master/doc/deploy-instructions.md
+- https://drive.google.com/drive/folders/0B1wLG72sys_SQVBKSGFpNTJmX1E
 
 ### arkkitehtuuri
 
@@ -54,6 +54,11 @@ Melko perusteellinen, jopa hieman raskaahko dokumentti
 
 Tiivis mutta informatiivinen
 - https://github.com/kehitysto/coaching-chatbot/blob/master/doc/architecture.md
+
+### Käyttöönotto-ohje
+
+- https://github.com/kehitysto/coaching-chatbot/blob/master/doc/deploy-instructions.md
+
 
 ### testaus
 
