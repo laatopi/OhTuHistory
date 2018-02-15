@@ -1,13 +1,13 @@
-# [OhTuHistory](https://github.com/ohtu-ohjaajat/OhTuHistory/wiki)
+# OhTuHistory
 
-## parhaat käytänteet
+## Parhaat käytänteet
 
-ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/reference.md)
+Ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/reference.md)
 
-## ryhmät
+## Ryhmät
 
-[Summer 2017](https://github.com/Jakousa/OhTuHistory/wiki/Summer-2017)
+[Summer 2017](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/summer2017.md)
 
-[Autumn 2017](https://github.com/Jakousa/OhTuHistory/wiki/Autumn-2017)
+[Autumn 2017](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/autumn2017.md)
 
 [Spring 2018](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/spring2018.md)
