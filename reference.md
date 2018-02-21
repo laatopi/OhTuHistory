@@ -57,6 +57,10 @@ Melko perusteellinen, jopa hieman raskaahko dokumentti
 Tiivis mutta informatiivinen
 - https://github.com/kehitysto/coaching-chatbot/blob/master/doc/architecture.md
 
+### Development / Build pipeline arkkitehtuurikaavio
+
+- 404
+
 ### Käyttöönotto-ohje
 
 - https://github.com/kehitysto/coaching-chatbot/blob/master/doc/deploy-instructions.md
