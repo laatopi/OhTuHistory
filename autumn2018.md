@@ -18,8 +18,8 @@ Ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/
   - [backlog](#)
   - [muu dokumentaatio](#)
  - Rekrytyökalu
-  - [muu dokumentaato](https://drive.google.com/open?id=15oY17CYTkx-eXyyLoGN5QNCkrILjgnGNioUANWcxRZY)
-  - [sprint backlog](https://trello.com/b/1ElKPbZ2/rekryty%C3%B6kalu)
+   - [muu dokumentaato](https://drive.google.com/open?id=15oY17CYTkx-eXyyLoGN5QNCkrILjgnGNioUANWcxRZY)
+   - [sprint backlog](https://trello.com/b/1ElKPbZ2/rekryty%C3%B6kalu)
 - Partio
   - [backlog](https://docs.google.com/spreadsheets/d/1s8WgWyk6s9hXbjHSsdBv8X7MHLPGrLpprMkqOl15yBo/edit?usp=sharing)
 
