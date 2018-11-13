@@ -15,8 +15,9 @@ Ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/
 
 ### Dokumentaatio
 - Quer.io 
-  - [backlog](#)
-  - [muu dokumentaatio](#)
+  - [product backlog](https://docs.google.com/spreadsheets/d/1zoZrZ76nHl1ytfHcbrPXzbQAAnYuDqROq3syIgq6yv4/edit#gid=0)
+  - [sprint backlog](https://docs.google.com/spreadsheets/d/1356DjMJaCLzRHgTVMD-nwnh5C8HQBULkCzGxY0TGmIg/edit#gid=0)
+  - [drive kansio](https://drive.google.com/drive/folders/14ewSGMBRCjzhqK1nLX_qdbn0I-8p89ea)
  - Rekrytyökalu
    - [muu dokumentaato](https://drive.google.com/open?id=15oY17CYTkx-eXyyLoGN5QNCkrILjgnGNioUANWcxRZY)
    - [sprint backlog](https://trello.com/b/1ElKPbZ2/rekryty%C3%B6kalu)
@@ -25,8 +26,7 @@ Ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/
 
 ### Sovellukset
 - Quer.io
-  - [staging](#)
-  - [tuotanto](#)
+  - ei web-sovellusta
 - Rekrytyökalu
   - [staging](https://rekrysofta-staging.apps.emblica.com/)
 - Partio
