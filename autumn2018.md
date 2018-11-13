@@ -11,7 +11,8 @@ Ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/
 - Partio
   - [Frontend](https://github.com/partio-scout/tosu-frontend)
   - [Backend (uusi)](https://github.com/partio-scout/tosu-backend-node)
-  - [Backend (vanha)](https://github.com/partio-scout/tosu-backend)
+  - [Backend (vanha)](https://github.com/partio-scout/tosu-backend
+- [Ohtuprojekti-ilmo](https://github.com/ohtuprojekti-ilmo)
   
   
 
@@ -28,6 +29,9 @@ Ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/
    - [sprint backlog](https://trello.com/b/1ElKPbZ2/rekryty%C3%B6kalu)
 - Partio
   - [backlog](https://docs.google.com/spreadsheets/d/1s8WgWyk6s9hXbjHSsdBv8X7MHLPGrLpprMkqOl15yBo/edit?usp=sharing)
+- Ohtuprojekti-Ilmo 
+  - [Product backlog - kaikki ei julkisia](https://trello.com/b/Wv50WMSA/backlog)
+  - [Drive](https://drive.google.com/drive/folders/1v3a2n6J6dK_4WmFbfaqIPxp1raWmBIwv)
 
 ### Sovellukset
 - Aikavälikertaus
@@ -38,4 +42,6 @@ Ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/
   - [staging](https://rekrysofta-staging.apps.emblica.com/)
 - Partio
   - [sovellus](https://suunnittelu.partio-ohjelma.fi/)
+- Ohtuprojekti-ilmo
+  - TBD
 
